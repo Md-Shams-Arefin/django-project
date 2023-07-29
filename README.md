@@ -5,7 +5,7 @@
 **First clone the repo;**
 
 ```shell
- git clone git@github.com:rakibulislam8226/Human-Resource-Management-ERP.git
+ git clone https://github.com/Md-Shams-Arefin/django-project.git
 ```
 
 ---
